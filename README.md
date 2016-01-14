@@ -52,7 +52,7 @@ $> npm install blinkstick
 
 To get the first blinkstick on your system:
 
-    var device = blinkstick.findFirst();
+    var led = blinkstick.findFirst();
 
 To set the color:
 
